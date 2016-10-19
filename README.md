@@ -2,4 +2,6 @@
 
 รูปที่ 1
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKhFIImkJYrMoDVLLSX9pIk62sW11HABSb45YfEBKikvk1nIyrA0cW40)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuKhFIImkJYrMqDBLLSX9pIj64KWioaKLA4ukIYtdud98pKi1QWO0)
+
+
